@@ -2,22 +2,16 @@
 
 # My skills
 
-# HTML:
+HTML:
 
-# Semantics
+Semantics
+Structuring
 
-# Structuring
+Git Basics:
 
-# Git Basics
-
-# git clone
-
-# git add . or git add filename
-
-# git commit or git commit -m "Your message here"
-
-# git config --global core.editor "code --wait"
-
-# git status or git log
-
-# git push or git push origin main
+git clone
+git add . or git add filename
+git commit or git commit -m "Your message here"
+git config --global core.editor "code --wait"
+git status or git log
+git push or git push origin main
